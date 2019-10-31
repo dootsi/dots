@@ -1,0 +1,8 @@
+URxvt*font: xft:Menlo:Regular:size=10
+URxvt*boldFont: xft:Menlo:Bold:size=10
+URxvt*italicFont: xft:Menlo:Italic:size=10
+URxvt*boldItalicFont: xft:Menlo:BoldItalic:size=10
+URxvt.internalBorder: 16
+URxvt.scrollBar: 0
+URxvt.depth: 24
+URxvt.antialias: 1
