@@ -1,0 +1,4 @@
+rofi.font:  Menlo 12
+rofi.lines: 8
+rofi.width: 440
+rofi.theme: ~/.cache/wal/colors-rofi-dark
