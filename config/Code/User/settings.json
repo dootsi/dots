@@ -1,0 +1,49 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": false
+  },
+  "breadcrumbs.enabled": false,
+  "window.menuBarVisibility": "toggle",
+  "editor.fontFamily": "Menlo, times",
+  "editor.fontSize": 12,
+  "typescript.surveys.enabled": false,
+  "telemetry.enableTelemetry": false,
+  "workbench.iconTheme": "vscode-icons",
+  "eslint.autoFixOnSave": true,
+  "prettier.singleQuote": true,
+  "workbench.startupEditor": "none",
+  "window.restoreWindows": "all",
+  "telemetry.enableCrashReporter": false,
+  "workbench.tips.enabled": false,
+  "workbench.tree.indent": 24,
+  "editor.minimap.enabled": false,
+  "workbench.activityBar.visible": false,
+  "window.zoomLevel": 0,
+  "files.exclude": {
+    "**/._*": true
+  },
+  "editor.lineHeight": 20,
+  "workbench.colorTheme": "Wal",
+  "workbench.statusBar.visible": false,
+  "editor.wordWrap": "on",
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "editor.lineNumbers": "on",
+  "editor.smoothScrolling": false,
+  "editor.renderLineHighlight": "none",
+  "editor.parameterHints.enabled": false,
+  "editor.renderFinalNewline": false,
+  "editor.scrollBeyondLastLine": true,
+  "editor.renderIndentGuides": false,
+  "editor.lightbulb.enabled": false,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.overviewRulerBorder": false,
+  "editor.hideCursorInOverviewRuler": true,
+  "workbench.editor.labelFormat": "short",
+  "editor.fastScrollSensitivity": 4
+}
